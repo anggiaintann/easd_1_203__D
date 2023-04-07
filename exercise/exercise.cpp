@@ -24,3 +24,7 @@ void selectionSort(int intan[]) {
             }
         }
         if (min_index != AW) {
+            swap(intan[AW], intan[min_index]);
+        }
+    }
+}
