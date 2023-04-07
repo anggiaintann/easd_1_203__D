@@ -29,3 +29,4 @@ void selectionSort(int intan[]) {
     }
 }
 void display(int intan[]) {
+    cout << "Hasil setelah diurutkan:" << endl;
