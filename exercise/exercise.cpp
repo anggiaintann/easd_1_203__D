@@ -11,3 +11,7 @@ const int MAX_DATA = 3;
 
 void input(int intan[]) {
 	cout << "Masukkan " << MAX_DATA << " bilangan:" << endl;
+	for (int i = 0; i < MAX_DATA; i++) {
+		cin >> intan[i];
+	}
+}
