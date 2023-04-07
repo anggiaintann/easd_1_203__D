@@ -28,3 +28,4 @@ void selectionSort(int intan[]) {
         }
     }
 }
+void display(int intan[]) {
