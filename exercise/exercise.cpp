@@ -10,3 +10,4 @@ using namespace std;
 const int MAX_DATA = 3;
 
 void input(int intan[]) {
+	cout << "Masukkan " << MAX_DATA << " bilangan:" << endl;
