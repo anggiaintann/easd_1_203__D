@@ -39,3 +39,7 @@ void display(int intan[]) {
 int main() {
     int intan[MAX_DATA];
     input(intan);
+    selectionSort(intan);
+    display(intan);
+    return 0;
+}
