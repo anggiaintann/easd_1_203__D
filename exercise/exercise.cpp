@@ -35,3 +35,7 @@ void display(int intan[]) {
     }
     cout << endl;
 }
+
+int main() {
+    int intan[MAX_DATA];
+    input(intan);
