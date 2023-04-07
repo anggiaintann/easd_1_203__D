@@ -8,3 +8,5 @@
 using namespace std;
 
 const int MAX_DATA = 3;
+
+void input(int intan[]) {
