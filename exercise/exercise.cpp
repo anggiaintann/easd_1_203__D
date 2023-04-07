@@ -30,3 +30,8 @@ void selectionSort(int intan[]) {
 }
 void display(int intan[]) {
     cout << "Hasil setelah diurutkan:" << endl;
+    for (int i = 0; i < MAX_DATA; i++) {
+        cout << intan[i] << " ";
+    }
+    cout << endl;
+}
